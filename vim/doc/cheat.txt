@@ -1,0 +1,21 @@
+*cheat.txt*
+
+Cheat sheet
+----------
+
+F2 NERDTree
+F3 Taglist togle
+F12 - rebuild ctags
+
+\be  buffer explorer
+\bv buffer explorer vertical split
+\bs buffer explorer horizontal split
+
+
+svn 
+\ca svn add
+\cc svn commit
+\cd svn diff
+\cs svn status
+\cu svn updata
+\cv svn vim diff
